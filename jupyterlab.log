@@ -1,0 +1,82 @@
+[I 2026-01-24 02:38:15.042 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-01-24 02:38:15.044 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-01-24 02:38:15.046 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-01-24 02:38:15.046 ServerApp] jupyterlab_nvdashboard | extension was successfully linked.
+[I 2026-01-24 02:38:15.046 ServerApp] jupyterlab_nvidia_nsight | extension was successfully linked.
+[I 2026-01-24 02:38:15.160 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-01-24 02:38:15.166 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-01-24 02:38:15.167 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-01-24 02:38:15.167 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-01-24 02:38:15.168 LabApp] JupyterLab extension loaded from /home/aispark/Project/Facial_rec_DL/.venv/lib/python3.12/site-packages/jupyterlab
+[I 2026-01-24 02:38:15.168 LabApp] JupyterLab application directory is /home/aispark/Project/Facial_rec_DL/.venv/share/jupyter/lab
+[I 2026-01-24 02:38:15.168 LabApp] Extension Manager is 'pypi'.
+[I 2026-01-24 02:38:15.189 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-01-24 02:38:15.190 ServerApp] Registered jupyterlab_nvdashboard server extension
+[I 2026-01-24 02:38:15.190 ServerApp] jupyterlab_nvdashboard | extension was successfully loaded.
+[I 2026-01-24 02:38:15.190 ServerApp] Registered jupyterlab_nvidia_nsight server extension
+[I 2026-01-24 02:38:15.190 ServerApp] jupyterlab_nvidia_nsight | extension was successfully loaded.
+[I 2026-01-24 02:38:15.190 ServerApp] Serving notebooks from local directory: /home/aispark/Project/Facial_rec_DL
+[I 2026-01-24 02:38:15.190 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2026-01-24 02:38:15.190 ServerApp] http://localhost:11002/lab?token=b8accd1615d378b222c151f1ecabed43b0ce075ec7f1e2f5
+[I 2026-01-24 02:38:15.190 ServerApp]     http://127.0.0.1:11002/lab?token=b8accd1615d378b222c151f1ecabed43b0ce075ec7f1e2f5
+[I 2026-01-24 02:38:15.190 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-01-24 02:38:15.192 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/aispark/.local/share/jupyter/runtime/jpserver-5685-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:11002/lab?token=b8accd1615d378b222c151f1ecabed43b0ce075ec7f1e2f5
+        http://127.0.0.1:11002/lab?token=b8accd1615d378b222c151f1ecabed43b0ce075ec7f1e2f5
+[I 2026-01-24 02:38:15.206 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-01-24 02:38:17.366 ServerApp] 302 GET /?token=[secret] (@127.0.0.1) 0.28ms
+[W 2026-01-24 02:38:18.068 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2026-01-24 02:38:18.294 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML?content=0&hash=0&1769222299993 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 0.86ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.294 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML?content=0&hash=0&1769222299993 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML
+[W 2026-01-24 02:38:18.294 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/01_FRM_data_preprocessing_crop_faces.ipynb?content=0&hash=0&1769222299993 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 1.26ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.295 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/01_FRM_data_preprocessing_crop_faces.ipynb?content=0&hash=0&1769222299993 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/01_FRM_data_preprocessing_crop_faces.ipynb
+[W 2026-01-24 02:38:18.296 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/05_FRM_make_pipeline.ipynb?content=0&hash=0&1769222299993 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 1.02ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.296 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/05_FRM_make_pipeline.ipynb?content=0&hash=0&1769222299993 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/05_FRM_make_pipeline.ipynb
+[W 2026-01-24 02:38:18.296 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/face_recognition.py?content=0&hash=0&1769222299993 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 1.31ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.297 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/face_recognition.py?content=0&hash=0&1769222299993 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/face_recognition.py
+[W 2026-01-24 02:38:18.297 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/test_images?content=0&hash=0&1769222299993 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 1.63ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.297 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/test_images?content=0&hash=0&1769222299993 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/test_images
+[W 2026-01-24 02:38:18.297 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/06_FRM_predictions.ipynb?content=0&hash=0&1769222299993 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 1.95ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.297 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/06_FRM_predictions.ipynb?content=0&hash=0&1769222299993 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/06_FRM_predictions.ipynb
+[W 2026-01-24 02:38:18.300 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/test_images/getty_test.jpg?content=0&hash=0&1769222299993 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 0.59ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.300 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/test_images/getty_test.jpg?content=0&hash=0&1769222299993 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/test_images/getty_test.jpg
+[W 2026-01-24 02:38:18.300 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/04_FRM_Machine_learning.ipynb?content=0&hash=0&1769222299993 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 0.53ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.300 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/04_FRM_Machine_learning.ipynb?content=0&hash=0&1769222299993 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/04_FRM_Machine_learning.ipynb
+[W 2026-01-24 02:38:18.304 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/03_FRM_feature_extraction_eigen_face.ipynb?content=0&hash=0&1769222299993 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 0.94ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.304 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/03_FRM_feature_extraction_eigen_face.ipynb?content=0&hash=0&1769222299993 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/03_FRM_feature_extraction_eigen_face.ipynb
+[W 2026-01-24 02:38:18.304 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/02_FRM_data_preprocessing_EDA.ipynb?content=0&hash=0&1769222299993 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 1.26ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.304 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/02_FRM_data_preprocessing_EDA.ipynb?content=0&hash=0&1769222299993 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/02_FRM_data_preprocessing_EDA.ipynb
+[W 2026-01-24 02:38:18.305 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/01_FRM_data_preprocessing_crop_faces.ipynb?content=0&hash=0&1769222299993 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 1.61ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.305 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/01_FRM_data_preprocessing_crop_faces.ipynb?content=0&hash=0&1769222299993 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/01_FRM_data_preprocessing_crop_faces.ipynb
+[W 2026-01-24 02:38:18.306 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/face_recognition.py?content=0&hash=0&1769222299993 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 0.86ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.306 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/face_recognition.py?content=0&hash=0&1769222299993 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/face_recognition.py
+[W 2026-01-24 02:38:18.307 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/06_FRM_predictions.ipynb?content=0&hash=0&1769222299994 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 1.20ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.307 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/06_FRM_predictions.ipynb?content=0&hash=0&1769222299994 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/06_FRM_predictions.ipynb
+[W 2026-01-24 02:38:18.307 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/05_FRM_make_pipeline.ipynb?content=0&hash=0&1769222299993 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 1.49ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.307 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/05_FRM_make_pipeline.ipynb?content=0&hash=0&1769222299993 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/05_FRM_make_pipeline.ipynb
+[W 2026-01-24 02:38:18.316 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/test_images/getty_test.jpg?content=0&hash=0&1769222299994 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 1.71ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.317 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/test_images/getty_test.jpg?content=0&hash=0&1769222299994 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/test_images/getty_test.jpg
+[W 2026-01-24 02:38:18.317 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/crop_data/male/male_153.jpg?content=0&hash=0&1769222299994 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 2.01ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.317 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/crop_data/male/male_153.jpg?content=0&hash=0&1769222299994 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/crop_data/male/male_153.jpg
+[W 2026-01-24 02:38:18.317 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/02_FRM_data_preprocessing_EDA.ipynb?content=0&hash=0&1769222299994 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 2.29ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.318 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/02_FRM_data_preprocessing_EDA.ipynb?content=0&hash=0&1769222299994 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/02_FRM_data_preprocessing_EDA.ipynb
+[W 2026-01-24 02:38:18.318 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/03_FRM_feature_extraction_eigen_face.ipynb?content=0&hash=0&1769222299994 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 2.61ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.318 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/03_FRM_feature_extraction_eigen_face.ipynb?content=0&hash=0&1769222299994 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/03_FRM_feature_extraction_eigen_face.ipynb
+[W 2026-01-24 02:38:18.318 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/crop_data/male/male_5047.jpg?content=0&hash=0&1769222299994 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 2.92ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.318 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/crop_data/male/male_5047.jpg?content=0&hash=0&1769222299994 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/crop_data/male/male_5047.jpg
+[W 2026-01-24 02:38:18.319 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/04_FRM_Machine_learning.ipynb?content=0&hash=0&1769222299994 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 3.19ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:18.319 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML/04_FRM_Machine_learning.ipynb?content=0&hash=0&1769222299994 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML/04_FRM_Machine_learning.ipynb
+[W 2026-01-24 02:38:19.508 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML?1769222301205 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 0.76ms referer=http://localhost:11002/lab
+[W 2026-01-24 02:38:19.508 ServerApp] 404 GET /api/contents/2_Train_FaceRecognition_with_ML?1769222301205 (127.0.0.1): No such file or directory: 2_Train_FaceRecognition_with_ML
+[I 2026-01-24 02:43:12.706 ServerApp] Uploading file to /code.zip
+[I 2026-01-24 02:44:09.665 ServerApp] Saving file at /code.zip
+[I 2026-01-24 02:46:35.739 ServerApp] New terminal with automatic name: 1
+[W 2026-01-24 02:46:35.756 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[W 2026-01-24 02:47:52.642 ServerApp] delete /code.zip
+[W 2026-01-24 02:47:58.381 ServerApp] delete /code
+[I 2026-01-24 02:48:05.974 ServerApp] New terminal with automatic name: 2
