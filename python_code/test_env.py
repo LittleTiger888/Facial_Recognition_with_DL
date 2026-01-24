@@ -9,3 +9,6 @@ print(dlib.__version__)
 print(face_recognition.__version__)
 
 
+image_test = cv2.imread("./images/testing/trump-modi.jpg")
+
+cv2.imshow("Image", image_test)
