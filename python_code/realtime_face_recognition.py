@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 #importing the required libraries
 import cv2
 import face_recognition
