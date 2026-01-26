@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-
-@author: abhilash
-"""
+#
 #importing the required libraries
 import cv2
 import numpy as np
@@ -49,7 +45,7 @@ for index,current_face_location in enumerate(all_face_locations):
     #expand the shape of an array into single row multiple columns
     img_pixels = np.expand_dims(img_pixels, axis = 0)
     #pixels are in range of [0, 255]. normalize all pixels in scale of [0, 1]
-    #img_pixels /= 255 
+    img_pixels /= 255 
     
     #do prodiction using model, get the prediction values for all 7 expressions
     exp_predictions = face_exp_model.predict(img_pixels) 
