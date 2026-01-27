@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
 
-@author: abhilash
-"""
 #importing the required libraries
 from mtcnn.mtcnn import MTCNN
 import matplotlib.pyplot as plt
@@ -11,6 +7,7 @@ import numpy as np
 from keras_vggface.utils import preprocess_input
 from keras_vggface.vggface import VGGFace
 from scipy.spatial.distance import cosine, euclidean
+from keras.utils.layer_utils import get_source_inputs
 
 def detect_extract_face(image_path_to_detect):
     

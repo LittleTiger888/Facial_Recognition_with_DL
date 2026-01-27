@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-
-@author: abhi
-"""
 
 # install opencv-contrib using the command
 # pip install --user opencv-contrib-python
