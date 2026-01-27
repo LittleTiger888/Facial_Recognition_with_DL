@@ -197,3 +197,24 @@ OpenCV(4.13.0) /io/opencv/modules/videoio/src/cap_ffmpeg_impl.hpp:1220: error: (
 [I 2026-01-27 04:32:27.102 ServerApp] Adapting from protocol version 5.3 (kernel 98c9b89d-9ed0-4915-ad15-ac7f827bd27a) to 5.4 (client).
 [I 2026-01-27 04:32:27.102 ServerApp] Connecting to kernel 98c9b89d-9ed0-4915-ad15-ac7f827bd27a.
 [I 2026-01-27 04:37:13.740 ServerApp] New terminal with automatic name: 2
+[I 2026-01-27 04:42:37.798 ServerApp] Starting buffering for 98c9b89d-9ed0-4915-ad15-ac7f827bd27a:36560b70-5470-487d-86b7-f3ca5cfe7a07
+[I 2026-01-27 04:43:24.827 ServerApp] Creating new notebook in 
+[I 2026-01-27 04:43:24.992 ServerApp] Kernel started: 9ac4a75b-6227-47ca-b965-197088a96033
+[I 2026-01-27 04:43:25.355 ServerApp] Adapting from protocol version 5.3 (kernel 9ac4a75b-6227-47ca-b965-197088a96033) to 5.4 (client).
+[I 2026-01-27 04:43:25.355 ServerApp] Connecting to kernel 9ac4a75b-6227-47ca-b965-197088a96033.
+[I 2026-01-27 04:43:55.336 ServerApp] Saving file at /python_code/image_face_detection_mtcnn.py
+[I 2026-01-27 04:43:57.790 ServerApp] Saving file at /image_face_detection_mtcnn.ipynb
+[I 2026-01-27 04:44:45.556 ServerApp] New terminal with automatic name: 4
+[I 2026-01-27 04:45:57.992 ServerApp] Saving file at /image_face_detection_mtcnn.ipynb
+[I 2026-01-27 05:03:59.086 ServerApp] Saving file at /image_face_detection_mtcnn.ipynb
+[I 2026-01-27 05:09:00.392 ServerApp] Starting buffering for d58406d1-4371-4740-bf22-f9cf51f1a591:a2c07329-3fb5-4b0c-83d2-87cc6749c083
+[I 2026-01-27 05:09:59.974 ServerApp] Saving file at /image_face_detection_mtcnn.ipynb
+[I 2026-01-27 05:12:00.206 ServerApp] Saving file at /image_face_detection_mtcnn.ipynb
+[I 2026-01-27 05:29:02.891 ServerApp] Saving file at /python_code/image_face_alignment.py
+[I 2026-01-27 05:29:04.897 ServerApp] Starting buffering for 9ac4a75b-6227-47ca-b965-197088a96033:c1378074-ffb1-49e1-99ea-c355b934cd97
+[I 2026-01-27 05:29:06.949 ServerApp] Creating new notebook in 
+[I 2026-01-27 05:29:07.099 ServerApp] Kernel started: 34985fb2-0291-4a8b-85fc-dc041b59ad68
+[I 2026-01-27 05:29:07.335 ServerApp] Adapting from protocol version 5.3 (kernel 34985fb2-0291-4a8b-85fc-dc041b59ad68) to 5.4 (client).
+[I 2026-01-27 05:29:07.336 ServerApp] Connecting to kernel 34985fb2-0291-4a8b-85fc-dc041b59ad68.
+[I 2026-01-27 05:30:04.341 ServerApp] Saving file at /image_face_alignment.ipynb
+[I 2026-01-27 05:58:08.525 ServerApp] New terminal with automatic name: 5
