@@ -1,220 +1,56 @@
-[I 2026-01-26 22:45:54.384 ServerApp] jupyter_lsp | extension was successfully linked.
-[I 2026-01-26 22:45:54.385 ServerApp] jupyter_server_terminals | extension was successfully linked.
-[I 2026-01-26 22:45:54.387 ServerApp] jupyterlab | extension was successfully linked.
-[I 2026-01-26 22:45:54.387 ServerApp] jupyterlab_nvdashboard | extension was successfully linked.
-[I 2026-01-26 22:45:54.387 ServerApp] jupyterlab_nvidia_nsight | extension was successfully linked.
-[I 2026-01-26 22:45:54.494 ServerApp] notebook_shim | extension was successfully linked.
-[I 2026-01-26 22:45:54.501 ServerApp] notebook_shim | extension was successfully loaded.
-[I 2026-01-26 22:45:54.501 ServerApp] jupyter_lsp | extension was successfully loaded.
-[I 2026-01-26 22:45:54.502 ServerApp] jupyter_server_terminals | extension was successfully loaded.
-[I 2026-01-26 22:45:54.503 LabApp] JupyterLab extension loaded from /home/aispark/Project/Facial_rec_DL/.venv/lib/python3.12/site-packages/jupyterlab
-[I 2026-01-26 22:45:54.503 LabApp] JupyterLab application directory is /home/aispark/Project/Facial_rec_DL/.venv/share/jupyter/lab
-[I 2026-01-26 22:45:54.503 LabApp] Extension Manager is 'pypi'.
-[I 2026-01-26 22:45:54.524 ServerApp] jupyterlab | extension was successfully loaded.
-[I 2026-01-26 22:45:54.524 ServerApp] Registered jupyterlab_nvdashboard server extension
-[I 2026-01-26 22:45:54.524 ServerApp] jupyterlab_nvdashboard | extension was successfully loaded.
-[I 2026-01-26 22:45:54.525 ServerApp] Registered jupyterlab_nvidia_nsight server extension
-[I 2026-01-26 22:45:54.525 ServerApp] jupyterlab_nvidia_nsight | extension was successfully loaded.
-[I 2026-01-26 22:45:54.525 ServerApp] Serving notebooks from local directory: /home/aispark/Project/Facial_rec_DL
-[I 2026-01-26 22:45:54.525 ServerApp] Jupyter Server 2.17.0 is running at:
-[I 2026-01-26 22:45:54.525 ServerApp] http://localhost:11002/lab?token=74c4436ea2b86f83e5ad7711eb3a7f023e85d795c41a12ab
-[I 2026-01-26 22:45:54.525 ServerApp]     http://127.0.0.1:11002/lab?token=74c4436ea2b86f83e5ad7711eb3a7f023e85d795c41a12ab
-[I 2026-01-26 22:45:54.525 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[C 2026-01-26 22:45:54.526 ServerApp] 
+[I 2026-01-27 16:29:43.631 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-01-27 16:29:43.633 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-01-27 16:29:43.634 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-01-27 16:29:43.634 ServerApp] jupyterlab_nvdashboard | extension was successfully linked.
+[I 2026-01-27 16:29:43.634 ServerApp] jupyterlab_nvidia_nsight | extension was successfully linked.
+[I 2026-01-27 16:29:43.854 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-01-27 16:29:43.894 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-01-27 16:29:43.895 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-01-27 16:29:43.895 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-01-27 16:29:43.899 LabApp] JupyterLab extension loaded from /home/aispark/Project/Facial_rec_DL/.venv/lib/python3.12/site-packages/jupyterlab
+[I 2026-01-27 16:29:43.899 LabApp] JupyterLab application directory is /home/aispark/Project/Facial_rec_DL/.venv/share/jupyter/lab
+[I 2026-01-27 16:29:43.900 LabApp] Extension Manager is 'pypi'.
+[I 2026-01-27 16:29:43.933 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-01-27 16:29:43.934 ServerApp] Registered jupyterlab_nvdashboard server extension
+[I 2026-01-27 16:29:43.934 ServerApp] jupyterlab_nvdashboard | extension was successfully loaded.
+[I 2026-01-27 16:29:43.934 ServerApp] Registered jupyterlab_nvidia_nsight server extension
+[I 2026-01-27 16:29:43.934 ServerApp] jupyterlab_nvidia_nsight | extension was successfully loaded.
+[I 2026-01-27 16:29:43.934 ServerApp] Serving notebooks from local directory: /home/aispark/Project/Facial_rec_DL
+[I 2026-01-27 16:29:43.934 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2026-01-27 16:29:43.934 ServerApp] http://localhost:11002/lab?token=d381eced64719fb0998750640aaabecb403b7c9101e38486
+[I 2026-01-27 16:29:43.934 ServerApp]     http://127.0.0.1:11002/lab?token=d381eced64719fb0998750640aaabecb403b7c9101e38486
+[I 2026-01-27 16:29:43.934 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-01-27 16:29:43.936 ServerApp] 
     
     To access the server, open this file in a browser:
-        file:///home/aispark/.local/share/jupyter/runtime/jpserver-223865-open.html
+        file:///home/aispark/.local/share/jupyter/runtime/jpserver-4650-open.html
     Or copy and paste one of these URLs:
-        http://localhost:11002/lab?token=74c4436ea2b86f83e5ad7711eb3a7f023e85d795c41a12ab
-        http://127.0.0.1:11002/lab?token=74c4436ea2b86f83e5ad7711eb3a7f023e85d795c41a12ab
-[I 2026-01-26 22:45:54.533 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
-[I 2026-01-26 22:46:00.493 ServerApp] 302 GET /?token=[secret] (@127.0.0.1) 0.29ms
-[W 2026-01-26 22:46:01.308 LabApp] Could not determine jupyterlab build status without nodejs
-[W 2026-01-26 22:46:01.511 ServerApp] 404 GET /api/contents/Untitled.ipynb?content=0&hash=0&1769467565463 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 1.25ms referer=http://localhost:11002/lab
-[W 2026-01-26 22:46:01.511 ServerApp] 404 GET /api/contents/Untitled.ipynb?content=0&hash=0&1769467565463 (127.0.0.1): No such file or directory: Untitled.ipynb
-[I 2026-01-26 22:46:01.567 ServerApp] New terminal with automatic name: 3
-[W 2026-01-26 22:46:01.583 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+        http://localhost:11002/lab?token=d381eced64719fb0998750640aaabecb403b7c9101e38486
+        http://127.0.0.1:11002/lab?token=d381eced64719fb0998750640aaabecb403b7c9101e38486
+[I 2026-01-27 16:29:43.951 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-01-27 16:29:47.756 ServerApp] 302 GET /?token=[secret] (@127.0.0.1) 0.25ms
+[W 2026-01-27 16:29:49.589 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2026-01-27 16:29:50.791 ServerApp] 404 GET /api/contents/Untitled.ipynb?content=0&hash=0&1769531390600 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 0.89ms referer=http://localhost:11002/lab
+[W 2026-01-27 16:29:50.791 ServerApp] 404 GET /api/contents/Untitled.ipynb?content=0&hash=0&1769531390600 (127.0.0.1): No such file or directory: Untitled.ipynb
+[I 2026-01-27 16:29:51.001 ServerApp] New terminal with automatic name: 5
+[W 2026-01-27 16:29:51.368 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
     Setting websocket_ping_timeout=30000
-[I 2026-01-26 22:49:42.718 ServerApp] Creating new notebook in 
-[I 2026-01-26 22:49:43.020 ServerApp] Kernel started: a8a72f7f-a34b-41f6-8312-025595f26226
-[I 2026-01-26 22:49:43.228 ServerApp] Adapting from protocol version 5.3 (kernel a8a72f7f-a34b-41f6-8312-025595f26226) to 5.4 (client).
-[I 2026-01-26 22:49:43.228 ServerApp] Connecting to kernel a8a72f7f-a34b-41f6-8312-025595f26226.
-[I 2026-01-26 22:49:43.257 ServerApp] Adapting from protocol version 5.3 (kernel a8a72f7f-a34b-41f6-8312-025595f26226) to 5.4 (client).
-[I 2026-01-26 22:49:43.258 ServerApp] Connecting to kernel a8a72f7f-a34b-41f6-8312-025595f26226.
-[I 2026-01-26 22:49:43.274 ServerApp] Adapting from protocol version 5.3 (kernel a8a72f7f-a34b-41f6-8312-025595f26226) to 5.4 (client).
-[I 2026-01-26 22:49:43.274 ServerApp] Connecting to kernel a8a72f7f-a34b-41f6-8312-025595f26226.
-[I 2026-01-26 22:49:57.043 ServerApp] Saving file at /python_code/face_makeup.py
-[I 2026-01-26 22:50:10.463 ServerApp] Saving file at /face_makeup.ipynb
-[I 2026-01-26 22:51:26.906 ServerApp] Saving file at /face_makeup.ipynb
-[I 2026-01-26 22:51:30.522 ServerApp] New terminal with automatic name: 1
-[I 2026-01-26 22:57:22.090 ServerApp] Saving file at /python_code/realtime_face_makeup.py
-[I 2026-01-26 23:35:23.716 ServerApp] Starting buffering for a8a72f7f-a34b-41f6-8312-025595f26226:c02a41d1-8980-4d5a-9d88-fa115a769225
-[I 2026-01-26 23:42:09.931 ServerApp] Kernel started: 0e107a7f-1e2c-4cc7-aa11-1ee2045cf6ea
-[I 2026-01-26 23:42:10.133 ServerApp] Adapting from protocol version 5.3 (kernel 0e107a7f-1e2c-4cc7-aa11-1ee2045cf6ea) to 5.4 (client).
-[I 2026-01-26 23:42:10.133 ServerApp] Connecting to kernel 0e107a7f-1e2c-4cc7-aa11-1ee2045cf6ea.
-[I 2026-01-26 23:42:35.175 ServerApp] Starting buffering for 0e107a7f-1e2c-4cc7-aa11-1ee2045cf6ea:81da8200-7c0a-4220-9855-0524aaca306d
-[I 2026-01-26 23:42:42.573 ServerApp] Creating new notebook in 
-[I 2026-01-26 23:42:42.738 ServerApp] Kernel started: 4772a736-8efa-4346-8a4f-0f5f73dc9b83
-[I 2026-01-26 23:42:42.987 ServerApp] Adapting from protocol version 5.3 (kernel 4772a736-8efa-4346-8a4f-0f5f73dc9b83) to 5.4 (client).
-[I 2026-01-26 23:42:42.987 ServerApp] Connecting to kernel 4772a736-8efa-4346-8a4f-0f5f73dc9b83.
-[I 2026-01-26 23:43:01.023 ServerApp] Saving file at /python_code/image_face_detection_haar.py
-[I 2026-01-26 23:43:06.722 ServerApp] Saving file at /image_face_detection_haar.ipynb
-[I 2026-01-26 23:44:11.129 ServerApp] Saving file at /image_face_detection_haar.ipynb
-[I 2026-01-27 00:33:23.738 ServerApp] Saving file at /python_code/realtime_face_detection_haar.py
-[I 2026-01-27 00:33:25.058 ServerApp] Starting buffering for 4772a736-8efa-4346-8a4f-0f5f73dc9b83:973a63d6-f05d-4f97-82c3-4174dc16862e
-[I 2026-01-27 00:33:29.268 ServerApp] Creating new notebook in 
-[I 2026-01-27 00:33:29.427 ServerApp] Kernel started: 99dc197e-932e-41ff-abcc-7ae80ae6f598
-[I 2026-01-27 00:33:29.616 ServerApp] Adapting from protocol version 5.3 (kernel 99dc197e-932e-41ff-abcc-7ae80ae6f598) to 5.4 (client).
-[I 2026-01-27 00:33:29.616 ServerApp] Connecting to kernel 99dc197e-932e-41ff-abcc-7ae80ae6f598.
-[I 2026-01-27 00:35:40.272 ServerApp] Saving file at /realtime_face_detection_haar.ipynb
-[I 2026-01-27 00:37:41.009 ServerApp] Saving file at /realtime_face_detection_haar.ipynb
-[I 2026-01-27 00:40:28.698 ServerApp] Saving file at /python_code/video_face_detection_haar.py
-[I 2026-01-27 00:44:05.184 ServerApp] Starting buffering for 99dc197e-932e-41ff-abcc-7ae80ae6f598:42a25e89-1e84-47a6-a097-b01a3d89e3e3
-[I 2026-01-27 00:44:07.071 ServerApp] Creating new notebook in /python_code
-[I 2026-01-27 00:44:07.242 ServerApp] Kernel started: 8fb0f552-45ce-4f39-bf74-5b9f54a12863
-[I 2026-01-27 00:44:07.444 ServerApp] Adapting from protocol version 5.3 (kernel 8fb0f552-45ce-4f39-bf74-5b9f54a12863) to 5.4 (client).
-[I 2026-01-27 00:44:07.444 ServerApp] Connecting to kernel 8fb0f552-45ce-4f39-bf74-5b9f54a12863.
-[I 2026-01-27 00:44:09.587 ServerApp] Starting buffering for 8fb0f552-45ce-4f39-bf74-5b9f54a12863:b6172bc3-c675-4c95-96bc-b73adaea450b
-[I 2026-01-27 00:44:35.651 ServerApp] Creating new notebook in 
-[I 2026-01-27 00:44:35.812 ServerApp] Kernel started: d85d071b-fd60-4250-8fac-d6434fbd7e48
-[I 2026-01-27 00:44:36.137 ServerApp] Adapting from protocol version 5.3 (kernel d85d071b-fd60-4250-8fac-d6434fbd7e48) to 5.4 (client).
-[I 2026-01-27 00:44:36.137 ServerApp] Connecting to kernel d85d071b-fd60-4250-8fac-d6434fbd7e48.
-[I 2026-01-27 00:44:49.206 ServerApp] Saving file at /python_code/image_face_detection_hog.py
-[I 2026-01-27 00:45:31.336 ServerApp] Saving file at /image_face_detection_hog.ipynb
-[I 2026-01-27 00:45:31.548 ServerApp] Saving file at /image_face_detection_hog.ipynb
-[W 2026-01-27 00:52:30.538 TerminalsExtensionApp] WebSocket ping timeout after 119993 ms.
-[W 2026-01-27 00:52:31.585 TerminalsExtensionApp] WebSocket ping timeout after 119980 ms.
-[W 2026-01-27 00:52:36.138 ServerApp] WebSocket ping timeout after 119979 ms.
-[I 2026-01-27 00:52:41.140 ServerApp] Starting buffering for d85d071b-fd60-4250-8fac-d6434fbd7e48:fa9c2033-eb1e-4883-8a60-17d53d474f1d
-[I 2026-01-27 01:56:59.531 ServerApp] Adapting from protocol version 5.3 (kernel d85d071b-fd60-4250-8fac-d6434fbd7e48) to 5.4 (client).
-[I 2026-01-27 01:56:59.531 ServerApp] Connecting to kernel d85d071b-fd60-4250-8fac-d6434fbd7e48.
-[I 2026-01-27 01:56:59.531 ServerApp] Restoring connection for d85d071b-fd60-4250-8fac-d6434fbd7e48:fa9c2033-eb1e-4883-8a60-17d53d474f1d
-[W 2026-01-27 02:03:59.532 ServerApp] WebSocket ping timeout after 119979 ms.
-[W 2026-01-27 02:03:59.564 TerminalsExtensionApp] WebSocket ping timeout after 119993 ms.
-[W 2026-01-27 02:03:59.588 TerminalsExtensionApp] WebSocket ping timeout after 119996 ms.
-[I 2026-01-27 02:04:04.533 ServerApp] Starting buffering for d85d071b-fd60-4250-8fac-d6434fbd7e48:fa9c2033-eb1e-4883-8a60-17d53d474f1d
-[I 2026-01-27 02:09:35.846 ServerApp] Adapting from protocol version 5.3 (kernel d85d071b-fd60-4250-8fac-d6434fbd7e48) to 5.4 (client).
-[I 2026-01-27 02:09:35.847 ServerApp] Connecting to kernel d85d071b-fd60-4250-8fac-d6434fbd7e48.
-[I 2026-01-27 02:09:35.847 ServerApp] Restoring connection for d85d071b-fd60-4250-8fac-d6434fbd7e48:fa9c2033-eb1e-4883-8a60-17d53d474f1d
-[W 2026-01-27 02:36:03.468 ServerApp] Notebook image_age_gender_detection.ipynb is not trusted
-[I 2026-01-27 02:36:03.673 ServerApp] Kernel started: 40284e07-b37b-4c02-9302-526062c5bc1d
-[I 2026-01-27 02:36:03.876 ServerApp] Adapting from protocol version 5.3 (kernel 40284e07-b37b-4c02-9302-526062c5bc1d) to 5.4 (client).
-[I 2026-01-27 02:36:03.877 ServerApp] Connecting to kernel 40284e07-b37b-4c02-9302-526062c5bc1d.
-[I 2026-01-27 02:36:21.284 ServerApp] Starting buffering for 40284e07-b37b-4c02-9302-526062c5bc1d:1429b465-b497-4060-968d-4242e5464a92
-[I 2026-01-27 02:45:53.498 ServerApp] Starting buffering for d85d071b-fd60-4250-8fac-d6434fbd7e48:fa9c2033-eb1e-4883-8a60-17d53d474f1d
-[I 2026-01-27 02:46:16.559 ServerApp] Creating new notebook in 
-[I 2026-01-27 02:46:16.733 ServerApp] Kernel started: 6cd3b3d7-2098-460a-86f4-24e0ec9f562b
-[I 2026-01-27 02:46:16.954 ServerApp] Adapting from protocol version 5.3 (kernel 6cd3b3d7-2098-460a-86f4-24e0ec9f562b) to 5.4 (client).
-[I 2026-01-27 02:46:16.954 ServerApp] Connecting to kernel 6cd3b3d7-2098-460a-86f4-24e0ec9f562b.
-[I 2026-01-27 02:46:26.827 ServerApp] Saving file at /python_code/video_face_detection_hog.py
-[I 2026-01-27 02:46:52.794 ServerApp] Saving file at /video_face_detection_hog.ipynb
-[I 2026-01-27 02:48:52.875 ServerApp] Saving file at /video_face_detection_hog.ipynb
-[I 2026-01-27 02:50:53.089 ServerApp] Saving file at /video_face_detection_hog.ipynb
-[I 2026-01-27 02:51:29.984 ServerApp] Starting buffering for 6cd3b3d7-2098-460a-86f4-24e0ec9f562b:715d7096-4f7e-4787-8e7e-ed827f778a7f
-[I 2026-01-27 02:51:39.543 ServerApp] 302 GET /?token=[secret] (@127.0.0.1) 0.24ms
-[I 2026-01-27 02:51:40.465 ServerApp] Adapting from protocol version 5.3 (kernel a8a72f7f-a34b-41f6-8312-025595f26226) to 5.4 (client).
-[I 2026-01-27 02:51:40.465 ServerApp] Connecting to kernel a8a72f7f-a34b-41f6-8312-025595f26226.
-[I 2026-01-27 02:51:40.485 ServerApp] Adapting from protocol version 5.3 (kernel 0e107a7f-1e2c-4cc7-aa11-1ee2045cf6ea) to 5.4 (client).
-[I 2026-01-27 02:51:40.486 ServerApp] Connecting to kernel 0e107a7f-1e2c-4cc7-aa11-1ee2045cf6ea.
-[I 2026-01-27 02:51:40.507 ServerApp] Adapting from protocol version 5.3 (kernel 4772a736-8efa-4346-8a4f-0f5f73dc9b83) to 5.4 (client).
-[I 2026-01-27 02:51:40.507 ServerApp] Connecting to kernel 4772a736-8efa-4346-8a4f-0f5f73dc9b83.
-[I 2026-01-27 02:51:40.526 ServerApp] Starting buffering for a8a72f7f-a34b-41f6-8312-025595f26226:a414669f-96b3-4310-a408-32ccb20b1f51
-[I 2026-01-27 02:51:40.528 ServerApp] Adapting from protocol version 5.3 (kernel 99dc197e-932e-41ff-abcc-7ae80ae6f598) to 5.4 (client).
-[I 2026-01-27 02:51:40.528 ServerApp] Connecting to kernel 99dc197e-932e-41ff-abcc-7ae80ae6f598.
-[I 2026-01-27 02:51:40.538 ServerApp] Starting buffering for 0e107a7f-1e2c-4cc7-aa11-1ee2045cf6ea:34dc6c09-247d-4840-9344-93a1196adcb4
-[I 2026-01-27 02:51:40.549 ServerApp] Adapting from protocol version 5.3 (kernel d85d071b-fd60-4250-8fac-d6434fbd7e48) to 5.4 (client).
-[I 2026-01-27 02:51:40.549 ServerApp] Connecting to kernel d85d071b-fd60-4250-8fac-d6434fbd7e48.
-[W 2026-01-27 02:51:40.567 LabApp] Could not determine jupyterlab build status without nodejs
-[I 2026-01-27 02:51:40.588 ServerApp] Adapting from protocol version 5.3 (kernel 8fb0f552-45ce-4f39-bf74-5b9f54a12863) to 5.4 (client).
-[I 2026-01-27 02:51:40.588 ServerApp] Connecting to kernel 8fb0f552-45ce-4f39-bf74-5b9f54a12863.
-[I 2026-01-27 02:51:40.624 ServerApp] Starting buffering for d85d071b-fd60-4250-8fac-d6434fbd7e48:900141b6-a86d-4e5f-b321-91b048f43a85
-[I 2026-01-27 02:51:40.627 ServerApp] Starting buffering for 4772a736-8efa-4346-8a4f-0f5f73dc9b83:e5fea306-d225-4d9e-999f-90751d08a0b5
-[I 2026-01-27 02:51:40.627 ServerApp] Starting buffering for 99dc197e-932e-41ff-abcc-7ae80ae6f598:d1999aea-001b-4254-acec-3492889ac05e
-[I 2026-01-27 02:51:40.638 ServerApp] Adapting from protocol version 5.3 (kernel 6cd3b3d7-2098-460a-86f4-24e0ec9f562b) to 5.4 (client).
-[I 2026-01-27 02:51:40.638 ServerApp] Connecting to kernel 6cd3b3d7-2098-460a-86f4-24e0ec9f562b.
-[I 2026-01-27 02:51:40.668 ServerApp] Adapting from protocol version 5.3 (kernel 40284e07-b37b-4c02-9302-526062c5bc1d) to 5.4 (client).
-[I 2026-01-27 02:51:40.668 ServerApp] Connecting to kernel 40284e07-b37b-4c02-9302-526062c5bc1d.
-[I 2026-01-27 02:51:40.703 ServerApp] Starting buffering for 8fb0f552-45ce-4f39-bf74-5b9f54a12863:81911f90-3d02-415c-82de-7feaf7e9abb5
-[I 2026-01-27 02:51:40.738 ServerApp] Starting buffering for 6cd3b3d7-2098-460a-86f4-24e0ec9f562b:2c9a0e3e-b067-4231-8ee2-813728d3a50c
-[I 2026-01-27 02:51:40.748 ServerApp] Starting buffering for 40284e07-b37b-4c02-9302-526062c5bc1d:1e1590ee-b1c9-4484-8f14-e4828430de20
-[W 2026-01-27 03:00:35.606 TerminalsExtensionApp] WebSocket ping timeout after 119949 ms.
-[W 2026-01-27 03:00:35.846 TerminalsExtensionApp] WebSocket ping timeout after 119980 ms.
-[I 2026-01-27 03:13:19.459 ServerApp] Creating new notebook in 
-[I 2026-01-27 03:13:19.725 ServerApp] Kernel started: d58406d1-4371-4740-bf22-f9cf51f1a591
-[I 2026-01-27 03:13:19.922 ServerApp] Adapting from protocol version 5.3 (kernel d58406d1-4371-4740-bf22-f9cf51f1a591) to 5.4 (client).
-[I 2026-01-27 03:13:19.923 ServerApp] Connecting to kernel d58406d1-4371-4740-bf22-f9cf51f1a591.
-[I 2026-01-27 03:14:11.839 ServerApp] Saving file at /python_code/image_face_detection_ssd.py
-[I 2026-01-27 03:14:13.144 ServerApp] Saving file at /image_face_detection_ssd.ipynb
-[I 2026-01-27 03:22:14.204 ServerApp] Saving file at /image_face_detection_ssd.ipynb
-[I 2026-01-27 03:28:16.866 ServerApp] Adapting from protocol version 5.3 (kernel d58406d1-4371-4740-bf22-f9cf51f1a591) to 5.4 (client).
-[I 2026-01-27 03:28:16.867 ServerApp] Connecting to kernel d58406d1-4371-4740-bf22-f9cf51f1a591.
-[W 2026-01-27 03:42:49.924 ServerApp] WebSocket ping timeout after 119978 ms.
-[W 2026-01-27 03:43:16.869 ServerApp] WebSocket ping timeout after 119976 ms.
-[W 2026-01-27 03:43:17.756 TerminalsExtensionApp] WebSocket ping timeout after 119977 ms.
-[W 2026-01-27 03:43:17.756 TerminalsExtensionApp] WebSocket ping timeout after 119977 ms.
-[I 2026-01-27 03:43:21.873 ServerApp] Starting buffering for d58406d1-4371-4740-bf22-f9cf51f1a591:e0424b24-2bf4-4e06-81c0-c35240f32cce
-[I 2026-01-27 04:03:51.579 ServerApp] Adapting from protocol version 5.3 (kernel d58406d1-4371-4740-bf22-f9cf51f1a591) to 5.4 (client).
-[I 2026-01-27 04:03:51.582 ServerApp] Connecting to kernel d58406d1-4371-4740-bf22-f9cf51f1a591.
-[I 2026-01-27 04:03:51.582 ServerApp] Restoring connection for d58406d1-4371-4740-bf22-f9cf51f1a591:e0424b24-2bf4-4e06-81c0-c35240f32cce
-[I 2026-01-27 04:03:51.619 ServerApp] Adapting from protocol version 5.3 (kernel d58406d1-4371-4740-bf22-f9cf51f1a591) to 5.4 (client).
-[I 2026-01-27 04:03:51.619 ServerApp] Connecting to kernel d58406d1-4371-4740-bf22-f9cf51f1a591.
-[I 2026-01-27 04:17:51.622 ServerApp] Saving file at /image_face_detection_ssd.ipynb
-[I 2026-01-27 04:20:49.433 ServerApp] Saving file at /python_code/video_face_detection_ssd.py
-[I 2026-01-27 04:20:53.724 ServerApp] Creating new notebook in 
-[I 2026-01-27 04:20:53.919 ServerApp] Kernel started: 894627d4-d44c-44be-a96e-89a4a699cee7
-[I 2026-01-27 04:20:54.131 ServerApp] Adapting from protocol version 5.3 (kernel 894627d4-d44c-44be-a96e-89a4a699cee7) to 5.4 (client).
-[I 2026-01-27 04:20:54.131 ServerApp] Connecting to kernel 894627d4-d44c-44be-a96e-89a4a699cee7.
-[I 2026-01-27 04:21:06.738 ServerApp] Saving file at /video_face_detection_ssd.ipynb
-[I 2026-01-27 04:22:09.813 ServerApp] Saving file at /video_face_detection_ssd.ipynb
-[I 2026-01-27 04:23:40.827 ServerApp] Adapting from protocol version 5.3 (kernel 8fb0f552-45ce-4f39-bf74-5b9f54a12863) to 5.4 (client).
-[I 2026-01-27 04:23:40.828 ServerApp] Connecting to kernel 8fb0f552-45ce-4f39-bf74-5b9f54a12863.
-[I 2026-01-27 04:23:42.992 ServerApp] Starting buffering for 8fb0f552-45ce-4f39-bf74-5b9f54a12863:a9c3af5f-fddc-4b9d-8b4e-12b761d53ab7
-[I 2026-01-27 04:23:51.397 ServerApp] Kernel shutdown: 8fb0f552-45ce-4f39-bf74-5b9f54a12863
-[W 2026-01-27 04:23:51.524 ServerApp] delete /python_code/Untitled.ipynb
-[I 2026-01-27 04:23:57.324 ServerApp] Saving file at /video_face_detection_ssd.ipynb
-[I 2026-01-27 04:24:53.748 ServerApp] Starting buffering for 894627d4-d44c-44be-a96e-89a4a699cee7:835e921b-ea5b-48ea-9081-4ba92d361125
-[I 2026-01-27 04:24:55.102 ServerApp] Creating new notebook in 
-[I 2026-01-27 04:24:55.247 ServerApp] Kernel started: 98c9b89d-9ed0-4915-ad15-ac7f827bd27a
-[I 2026-01-27 04:24:55.474 ServerApp] Adapting from protocol version 5.3 (kernel 98c9b89d-9ed0-4915-ad15-ac7f827bd27a) to 5.4 (client).
-[I 2026-01-27 04:24:55.475 ServerApp] Connecting to kernel 98c9b89d-9ed0-4915-ad15-ac7f827bd27a.
-[I 2026-01-27 04:25:08.711 ServerApp] Saving file at /python_code/realtime_face_detection_mmod.py
-[ WARN:0@0.239] global cap_v4l.cpp:914 open VIDEOIO(V4L2:/dev/video0): can't open camera by index
-[ WARN:0@0.250] global cap.cpp:438 open VIDEOIO(FFMPEG): raised OpenCV exception:
-
-OpenCV(4.13.0) /io/opencv/modules/videoio/src/cap_ffmpeg_impl.hpp:1220: error: (-2:Unspecified error) in function 'bool CvCapture_FFMPEG::open(const char*, int, const cv::Ptr<cv::IStreamReader>&, const cv::VideoCaptureParameters&)'
-> VIDEOIO/FFMPEG: Camera index out of range (expected: 'index < device_list->nb_devices'), where
->     'index' is 0
-> must be less than
->     'device_list->nb_devices' is 0
-
-
-[I 2026-01-27 04:26:40.162 ServerApp] Saving file at /image_face_detection_mmod.ipynb
-[I 2026-01-27 04:26:41.655 ServerApp] Saving file at /python_code/image_face_detection_mmod.py
-[I 2026-01-27 04:26:58.222 ServerApp] Saving file at /image_face_detection_mmod.ipynb
-[I 2026-01-27 04:26:59.311 ServerApp] Saving file at /image_face_detection_mmod.ipynb
-[I 2026-01-27 04:27:03.436 ServerApp] Saving file at /image_face_detection_mmod.ipynb
-[I 2026-01-27 04:27:04.928 ServerApp] Starting buffering for 98c9b89d-9ed0-4915-ad15-ac7f827bd27a:2c41f580-c351-4be1-ac4b-bb0143a4a990
-[I 2026-01-27 04:32:27.102 ServerApp] Adapting from protocol version 5.3 (kernel 98c9b89d-9ed0-4915-ad15-ac7f827bd27a) to 5.4 (client).
-[I 2026-01-27 04:32:27.102 ServerApp] Connecting to kernel 98c9b89d-9ed0-4915-ad15-ac7f827bd27a.
-[I 2026-01-27 04:37:13.740 ServerApp] New terminal with automatic name: 2
-[I 2026-01-27 04:42:37.798 ServerApp] Starting buffering for 98c9b89d-9ed0-4915-ad15-ac7f827bd27a:36560b70-5470-487d-86b7-f3ca5cfe7a07
-[I 2026-01-27 04:43:24.827 ServerApp] Creating new notebook in 
-[I 2026-01-27 04:43:24.992 ServerApp] Kernel started: 9ac4a75b-6227-47ca-b965-197088a96033
-[I 2026-01-27 04:43:25.355 ServerApp] Adapting from protocol version 5.3 (kernel 9ac4a75b-6227-47ca-b965-197088a96033) to 5.4 (client).
-[I 2026-01-27 04:43:25.355 ServerApp] Connecting to kernel 9ac4a75b-6227-47ca-b965-197088a96033.
-[I 2026-01-27 04:43:55.336 ServerApp] Saving file at /python_code/image_face_detection_mtcnn.py
-[I 2026-01-27 04:43:57.790 ServerApp] Saving file at /image_face_detection_mtcnn.ipynb
-[I 2026-01-27 04:44:45.556 ServerApp] New terminal with automatic name: 4
-[I 2026-01-27 04:45:57.992 ServerApp] Saving file at /image_face_detection_mtcnn.ipynb
-[I 2026-01-27 05:03:59.086 ServerApp] Saving file at /image_face_detection_mtcnn.ipynb
-[I 2026-01-27 05:09:00.392 ServerApp] Starting buffering for d58406d1-4371-4740-bf22-f9cf51f1a591:a2c07329-3fb5-4b0c-83d2-87cc6749c083
-[I 2026-01-27 05:09:59.974 ServerApp] Saving file at /image_face_detection_mtcnn.ipynb
-[I 2026-01-27 05:12:00.206 ServerApp] Saving file at /image_face_detection_mtcnn.ipynb
-[I 2026-01-27 05:29:02.891 ServerApp] Saving file at /python_code/image_face_alignment.py
-[I 2026-01-27 05:29:04.897 ServerApp] Starting buffering for 9ac4a75b-6227-47ca-b965-197088a96033:c1378074-ffb1-49e1-99ea-c355b934cd97
-[I 2026-01-27 05:29:06.949 ServerApp] Creating new notebook in 
-[I 2026-01-27 05:29:07.099 ServerApp] Kernel started: 34985fb2-0291-4a8b-85fc-dc041b59ad68
-[I 2026-01-27 05:29:07.335 ServerApp] Adapting from protocol version 5.3 (kernel 34985fb2-0291-4a8b-85fc-dc041b59ad68) to 5.4 (client).
-[I 2026-01-27 05:29:07.336 ServerApp] Connecting to kernel 34985fb2-0291-4a8b-85fc-dc041b59ad68.
-[I 2026-01-27 05:30:04.341 ServerApp] Saving file at /image_face_alignment.ipynb
-[I 2026-01-27 05:58:08.525 ServerApp] New terminal with automatic name: 5
+[I 2026-01-27 16:29:52.311 ServerApp] Kernel started: 39d8fb3f-79bb-4b6a-99a4-7b5d39cc595b
+[I 2026-01-27 16:29:52.615 ServerApp] Adapting from protocol version 5.3 (kernel 39d8fb3f-79bb-4b6a-99a4-7b5d39cc595b) to 5.4 (client).
+[I 2026-01-27 16:29:52.615 ServerApp] Connecting to kernel 39d8fb3f-79bb-4b6a-99a4-7b5d39cc595b.
+[I 2026-01-27 16:29:52.820 ServerApp] Adapting from protocol version 5.3 (kernel 39d8fb3f-79bb-4b6a-99a4-7b5d39cc595b) to 5.4 (client).
+[I 2026-01-27 16:29:52.821 ServerApp] Connecting to kernel 39d8fb3f-79bb-4b6a-99a4-7b5d39cc595b.
+[I 2026-01-27 16:29:53.027 ServerApp] Adapting from protocol version 5.3 (kernel 39d8fb3f-79bb-4b6a-99a4-7b5d39cc595b) to 5.4 (client).
+[I 2026-01-27 16:29:53.028 ServerApp] Connecting to kernel 39d8fb3f-79bb-4b6a-99a4-7b5d39cc595b.
+[I 2026-01-27 16:30:55.526 ServerApp] Starting buffering for 39d8fb3f-79bb-4b6a-99a4-7b5d39cc595b:21c7a258-7170-4830-a35a-5596c1034c81
+[I 2026-01-27 16:31:03.304 ServerApp] Saving file at /python_code/video_face_alignment.py
+[I 2026-01-27 16:31:05.484 ServerApp] Creating new notebook in 
+[I 2026-01-27 16:31:05.775 ServerApp] Kernel started: cb24d6de-fb97-4646-967d-cb04bac19726
+[I 2026-01-27 16:31:05.978 ServerApp] Adapting from protocol version 5.3 (kernel cb24d6de-fb97-4646-967d-cb04bac19726) to 5.4 (client).
+[I 2026-01-27 16:31:05.979 ServerApp] Connecting to kernel cb24d6de-fb97-4646-967d-cb04bac19726.
+[I 2026-01-27 16:31:26.262 ServerApp] Saving file at /video_face_alignment.ipynb
+[I 2026-01-27 16:31:26.503 ServerApp] Saving file at /video_face_alignment.ipynb
+[I 2026-01-27 16:35:27.983 ServerApp] Saving file at /video_face_alignment.ipynb
+[I 2026-01-27 16:37:30.223 ServerApp] Saving file at /video_face_alignment.ipynb
+[I 2026-01-27 16:39:23.457 ServerApp] Saving file at /video_face_alignment.ipynb
+[I 2026-01-27 16:39:41.147 ServerApp] New terminal with automatic name: 1
